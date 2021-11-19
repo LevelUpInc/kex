@@ -37,7 +37,7 @@ After download open termux and go to Download folder where kex.sh file was saved
 <br>
 copy the command below and paste it in  *termux terminal*
 
-        chmod +x kex.sh;./kex.sh
+           cp -r kex.sh $HOME;cd $HOME;chmod +x kex.sh;./kex.sh
 
 and it will start installing Kali NetHunter
 
