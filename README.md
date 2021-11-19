@@ -25,7 +25,7 @@ Kex is a Kali NetHunter Installer. Which install official NetHunter relesed by O
 ## Requrements
 + 1 Gb of Ram
 + 2 Gb storage
-+ [Termux](https://play.google.com/store/app/details?id=com.termux) or any android terminal emulator
++ [Termux](https://play.google.com/store/apps/details?id=com.termux) or any android terminal emulator
 + [VNC](https://play.google.com/store/apps/details?id=com.realvnc.viewer.android) viewer
 + Internet
 ## Installation
