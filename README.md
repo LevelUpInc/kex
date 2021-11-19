@@ -1,5 +1,5 @@
 # kex
-Kali Installer Simple & Powerful
+> Kali Installer Simple & Powerful
 <pre>
 kkkkkkkk                                                 
 k::::::k                                                 
@@ -21,7 +21,7 @@ kkkkkkkk    kkkkkkkeeeeeeeeeeeeexxxxxxx      xxxxxxx
 </pre>
 
 ## What is Kex
-Kex is a Kali NetHunter Installer. Which install official NetHunter relesed by Offinsive Secutity
+Kex is a Kali NetHunter Installer. Which is install official NetHunter relesed by Offinsive Secutity
 ## Requrements
 + 1 Gb of Ram
 + 2 Gb storage
