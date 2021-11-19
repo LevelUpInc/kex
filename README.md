@@ -55,7 +55,7 @@ If you use *Kex Insreller* ,you don't need to **root** your device to install *K
 .It just install *Kali Nethunter* without rooting your *Android*
 ## Feedbacks
 <a href="mailto:rohit02sadhukhan@pm.me?subject=Hi! R Sadhukhan"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
-
+<a href="https://twitter.com/_sadhukhan"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
