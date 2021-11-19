@@ -65,3 +65,5 @@ Please make sure to update tests as appropriate.
 [MIT](https://choosealicense.com/licenses/mit/)
 ## Project Status
 Devolopement Stage
+### Beta
+dev2 branch
