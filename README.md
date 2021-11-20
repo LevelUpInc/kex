@@ -21,7 +21,7 @@ kkkkkkkk    kkkkkkkeeeeeeeeeeeeexxxxxxx      xxxxxxx
 </pre>
 
 ## What is Kex
-Kex is a Kali NetHunter Installer. Which is install official NetHunter relesed by Offinsive Secutity
+Kex is a Kali NetHunter Installer. Which is install official NetHunter relesed by Offensive Secutity
 ## Requrements
 + 1 Gb of Ram
 + 2 Gb storage
