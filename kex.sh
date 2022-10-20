@@ -43,11 +43,12 @@ sleep 0.5
 pkg install wget
 sleep 0.5
 echo 
-curl https://raw.githubusercontent.com/cx0y/kex/main/LICENSE
+curl -O LICENSE https://raw.githubusercontent.com/cx0y/kex/main/LICENSE
 sleep 0.5
 echo -e $yellow
 echo  "==================================================================="
 cat LICENSE
+rm -rf LICENSE
 echo -e $red
 sleep 10
 wget -O kex_i.sh https://offs.ec/2MceZWr
