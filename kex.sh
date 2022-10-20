@@ -1,5 +1,4 @@
 #!/bin/bash 
-
 #colours
 red='\e[1;31m'
 black='\e[1;30m'
@@ -27,17 +26,15 @@ KK::::::K  K:::::KKKe:::::::e             x::::::::::x
 K:::::::K   K::::::Ke::::::::e           x:::::xx:::::x   
 K:::::::K    K:::::K e::::::::eeeeeeee  x:::::x  x:::::x  
 K:::::::K    K:::::K  ee:::::::::::::e x:::::x    x:::::x 
-KKKKKKKKK    KKKKKKK    eeeeeeeeeeeeeexxxxxxx      xxxxxxx 1.0
-   
-                Kex Installer by R Sadhukhan
-
+KKKKKKKKK    KKKKKKK    eeeeeeeeeeeeeexxxxxxx      xxxxxxx 2.0.1 wiz(cx0y) 
+github-repo: https://github.com/cx0y/kex 
 "
 echo "==================================================================="
 echo -e $cayan
 sleep 0.7
-echo "Installing Kali NetHunter Kex Installer ..........."
+echo "installing dependencies..........."
 sleep 1
-echo "Updating database....."
+echo "updating system....."
 echo $red
 apt-get update -y
 sleep 0.5
@@ -46,28 +43,23 @@ sleep 0.5
 pkg install wget
 sleep 0.5
 echo 
-wget  https://raw.githubusercontent.com/SadhukhanR/kex/main/LICENSE
+curl https://raw.githubusercontent.com/cx0y/kex/main/LICENSE
 sleep 0.5
 echo -e $yellow
 echo  "==================================================================="
 cat LICENSE
 echo -e $red
-rm -rf LICENSE
-echo "===================================================================="
 sleep 10
-wget -O install-nethunter-termux https://offs.ec/2MceZWr
+wget -O kex_i.sh https://offs.ec/2MceZWr
+chmod +x kex_i.sh
 sleep 10
-chmod +x install-nethunter-termux
-./install-nethunter-termux
+./kex_i.sh
 sleep 10
 echo "====================================================================="
-echo -e "Starting Kali Linux ................."
-				
-echo "========================================================================"
+echo -e "starting kali, starting shell................."
+echo "====================================================================="
 sleep 10 
+rm -rf kex_i.sh
 echo -e $yellow
-echo"Message from devolopers : Thanks to use Kex :)"
+echo"msg from wiz(developer) for more command visit https://github.com/cx0y/kex"
 nethunter
-
-
-
