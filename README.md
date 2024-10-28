@@ -1,8 +1,8 @@
 # kex
-Kex (don't need to root android) is a Kali NetHunter Installer. Which is install official Kali NetHunter relesed by Offensive Secutity
+Kex (no root) is a Kali NetHunter Installer. Which is install official Kali NetHunter relesed by Offensive Secutity
 
 ## requrements
-+ 1 Gb of Ram
++ 1 Gb Ram
 + 2 Gb storage
 + [Termux](https://play.google.com/store/apps/details?id=com.termux) or any android terminal emulator
 + [VNC](https://play.google.com/store/apps/details?id=com.realvnc.viewer.android) viewer
@@ -12,7 +12,7 @@ Kex (don't need to root android) is a Kali NetHunter Installer. Which is install
 install kali linux using kex
 
 ```
-wget -O kex.sh https://raw.githubusercontent.com/cx0y/kex/main/kex.sh;chmod +x kex.sh;./kex.sh
+wget -O kex.sh https://raw.githubusercontent.com/LevelUpInc/kex/refs/heads/main/kex.sh;chmod +x kex.sh;./kex.sh
 ```
 
 ## kali nethunter cheat sheet
