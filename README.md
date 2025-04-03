@@ -4,10 +4,11 @@ Kex (no root) is a Kali NetHunter Installer. Which is install official Kali NetH
 ## requrements
 + 1 Gb Ram
 + 2 Gb storage
++ `wget` (try: pkg install wget)
 + [Termux](https://play.google.com/store/apps/details?id=com.termux) or any android terminal emulator
 + [VNC](https://play.google.com/store/apps/details?id=com.realvnc.viewer.android) viewer
 + Internet
-  
+
 ## installation
 install kali linux using kex
 
